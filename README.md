@@ -8,6 +8,7 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
 )](+5553991394392)
 
+
 Tenho 25 anos, sou bacharel em Matemática Aplicada com Ênfase em Economia Matemática pela FURG e atualmente estou buscando emprego como analista de dados financeiro.
 
 ## Linguagens e Ferramentas
@@ -21,6 +22,8 @@ Tenho 25 anos, sou bacharel em Matemática Aplicada com Ênfase em Economia Mate
 <img aling="center" alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 <img aling="center" alt="Visual" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 <img aling="center" alt="RStudio" src="https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white"/>
+<img aling="center" alt="Jupyter" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img aling="center" alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
 </div>
 
 
