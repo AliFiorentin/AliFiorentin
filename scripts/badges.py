@@ -29,6 +29,9 @@ BADGES = {
     "latex": ("LaTeX", "#008080", W, W),
     "git": ("Git", "#f05032", W, W),
     "vercel": ("Vercel", "#000000", W, W),
+    "orcid": ("ORCID", "#a6ce39", D, D),
+    "site": ("Site e artigos", "#1f6feb", W, None),
+    "linkedin": ("LinkedIn", "#0a66c2", W, W),
 }
 H, PAD, ICON, GAP = 28, 12, 14, 7
 

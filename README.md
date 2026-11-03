@@ -1,7 +1,10 @@
 # Alisson Tallys Geraldo Fiorentin
 
 Doutorando em Economia Aplicada na UFRGS. Mestre em Economia Aplicada pela FURG e bacharel em Matemática Aplicada.
-Integro o Grupo de Pesquisa em Economia Azul (FURG). [ORCID](https://orcid.org/0009-0002-7233-3640) · [Site e artigos: econodados.vercel.app](https://econodados.vercel.app)
+Integro o Grupo de Pesquisa em Economia Azul (FURG).
+
+<a href="https://orcid.org/0009-0002-7233-3640"><img src="assets/badges/orcid.svg" alt="ORCID"></a>
+<a href="https://econodados.vercel.app"><img src="assets/badges/site.svg" alt="Site e artigos"></a>
 
 ## Habilidades
 
@@ -14,10 +17,6 @@ Integro o Grupo de Pesquisa em Economia Azul (FURG). [ORCID](https://orcid.org/0
 
 ## Ferramentas
 
-<table>
-<tr>
-<td valign="top">
-
 | Área | Ferramentas |
 |---|---|
 | Estatística e econometria | <img src="assets/badges/r.svg" alt="R"> <img src="assets/badges/stata.svg" alt="Stata"> |
@@ -28,23 +27,6 @@ Integro o Grupo de Pesquisa em Economia Azul (FURG). [ORCID](https://orcid.org/0
 | Análise e escritório | <img src="assets/badges/powerbi.svg" alt="Power BI"> <img src="assets/badges/microsoftexcel.svg" alt="Microsoft Excel"> |
 | Inteligência artificial | <img src="assets/badges/claude.svg" alt="Claude"> <img src="assets/badges/openai.svg" alt="Codex"> |
 | Publicação | <img src="assets/badges/latex.svg" alt="LaTeX"> <img src="assets/badges/git.svg" alt="Git"> <img src="assets/badges/vercel.svg" alt="Vercel"> |
-
-</td>
-<td valign="top">
-
-**Linhas de pesquisa**
-
-- Economia do clima e desastres
-- Economia portuária e transportes
-- Economia do trabalho
-- Economia regional
-
-**Artigos completos**
-[econodados.vercel.app](https://econodados.vercel.app)
-
-</td>
-</tr>
-</table>
 
 ## Atividade
 
