@@ -48,4 +48,9 @@ Integro o Grupo de Pesquisa em Economia Azul (FURG). [ORCID](https://orcid.org/0
 
 ## Atividade
 
-<img alt="Linguagens mais usadas" src="assets/languages.svg" width="420">
+<table>
+<tr>
+<td valign="top"><img alt="Linguagens mais usadas" src="assets/languages.svg" width="420"></td>
+<td valign="top"><img alt="Contribuições por mês" src="assets/contributions.svg" width="420"></td>
+</tr>
+</table>
