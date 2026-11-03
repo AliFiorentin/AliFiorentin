@@ -7,6 +7,7 @@ from html import escape
 W, D, REACT = "#ffffff", "#1f2328", "#61dafb"
 BADGES = {
     "r": ("R", "#276dc3", W, W),
+    "matlab": ("MATLAB", "#e16737", W, None),
     "stata": ("Stata", "#1a5f91", W, None),
     "python": ("Python", "#3776ab", W, W),
     "sql": ("SQL", "#475569", W, None),

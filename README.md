@@ -20,7 +20,7 @@ Integro o Grupo de Pesquisa em Economia Azul (FURG).
 
 | Área | Ferramentas |
 |---|---|
-| Estatística e econometria | <img src="assets/badges/r.svg" alt="R"> <img src="assets/badges/stata.svg" alt="Stata"> |
+| Estatística e econometria | <img src="assets/badges/r.svg" alt="R"> <img src="assets/badges/stata.svg" alt="Stata"> <img src="assets/badges/matlab.svg" alt="MATLAB"> |
 | Programação e dados | <img src="assets/badges/python.svg" alt="Python"> <img src="assets/badges/sql.svg" alt="SQL"> <img src="assets/badges/pandas.svg" alt="pandas"> <img src="assets/badges/geopandas.svg" alt="GeoPandas"> |
 | Geoprocessamento e mapas | <img src="assets/badges/qgis.svg" alt="QGIS"> <img src="assets/badges/webgis.svg" alt="WebGIS"> <img src="assets/badges/googleearth.svg" alt="Google Earth"> <img src="assets/badges/maplibre.svg" alt="MapLibre GL"> |
 | Visualização e documentos | <img src="assets/badges/powerbi.svg" alt="Power BI"> <img src="assets/badges/microsoftexcel.svg" alt="Microsoft Excel"> <img src="assets/badges/latex.svg" alt="LaTeX"> |
