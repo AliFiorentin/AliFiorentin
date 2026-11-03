@@ -14,6 +14,10 @@ Integro o Grupo de Pesquisa em Economia Azul (FURG). [ORCID](https://orcid.org/0
 
 ## Ferramentas
 
+<table>
+<tr>
+<td valign="top">
+
 | Área | Ferramentas |
 |---|---|
 | Estatística e econometria | R, Stata |
@@ -24,3 +28,21 @@ Integro o Grupo de Pesquisa em Economia Azul (FURG). [ORCID](https://orcid.org/0
 | Análise e escritório | Power BI, Microsoft Office (Excel) |
 | Inteligência artificial | Claude, Codex |
 | Publicação | LaTeX, Git, Vercel |
+
+</td>
+<td valign="top">
+
+**Linhas de pesquisa**
+
+- Clima e eficiência do setor portuário
+- Enchentes de 2024 no RS: emprego, crédito e economia
+- Mercado de trabalho e overeducation
+- Receitas de petróleo e crescimento municipal
+- Transporte aquaviário regulado pela ANTAQ
+
+**Artigos completos**
+[econodados.vercel.app](https://econodados.vercel.app)
+
+</td>
+</tr>
+</table>
