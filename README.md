@@ -18,9 +18,9 @@ Integro o Grupo de Pesquisa em Economia Azul (FURG).
 
 ## Ferramentas
 
-<table width="100%">
+<table>
 <thead>
-<tr><th width="30%" align="left">Área</th><th align="left">Ferramentas</th></tr>
+<tr><th align="left">Área</th><th align="left">Ferramentas<br><img src="assets/spacer.svg" width="2000" height="1" alt=""></th></tr>
 </thead>
 <tbody>
 <tr><td>Estatística e econometria</td><td><img src="assets/badges/r.svg" alt="R"> <img src="assets/badges/stata.svg" alt="Stata"> <img src="assets/badges/matlab.svg" alt="MATLAB"></td></tr>
