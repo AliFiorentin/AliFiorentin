@@ -48,9 +48,4 @@ Integro o Grupo de Pesquisa em Economia Azul (FURG). [ORCID](https://orcid.org/0
 
 ## Atividade
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AliFiorentin/AliFiorentin/output/github-contribution-grid-snake-dark.svg">
-  <img alt="Gráfico de contribuições em formato de cobra" src="https://raw.githubusercontent.com/AliFiorentin/AliFiorentin/output/github-contribution-grid-snake.svg">
-</picture>
-
 <img alt="Linguagens mais usadas" src="assets/languages.svg" width="420">
