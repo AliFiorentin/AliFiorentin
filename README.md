@@ -29,7 +29,7 @@ Integro o Grupo de Pesquisa em Economia Azul (FURG).
 <tr><td>Visualização&nbsp;e&nbsp;documentos</td><td><img src="assets/badges/powerbi.svg" alt="Power BI"> <img src="assets/badges/microsoftexcel.svg" alt="Microsoft Excel"> <img src="assets/badges/latex.svg" alt="LaTeX"></td></tr>
 <tr><td>Desenvolvimento&nbsp;web</td><td><img src="assets/badges/typescript.svg" alt="TypeScript"> <img src="assets/badges/nextdotjs.svg" alt="Next.js"> <img src="assets/badges/react.svg" alt="React"> <img src="assets/badges/git.svg" alt="Git"> <img src="assets/badges/vercel.svg" alt="Vercel"></td></tr>
 <tr><td>Bancos&nbsp;de&nbsp;dados&nbsp;e&nbsp;nuvem</td><td><img src="assets/badges/supabase.svg" alt="Supabase"> <img src="assets/badges/firebase.svg" alt="Firebase"> <img src="assets/badges/googlecloud.svg" alt="Google Cloud"></td></tr>
-<tr><td>Inteligência&nbsp;artificial</td><td><img src="assets/badges/claude.svg" alt="Claude"> <img src="assets/badges/openai.svg" alt="Codex"></td></tr>
+<tr><td>Inteligência&nbsp;artificial</td><td><img src="assets/badges/claude.svg" alt="Claude"> <img src="assets/badges/googlegemini.svg" alt="Gemini"></td></tr>
 </tbody>
 </table>
 

@@ -26,7 +26,7 @@ BADGES = {
     "powerbi": ("Power BI", "#f2c811", D, D),
     "microsoftexcel": ("Excel", "#217346", W, W),
     "claude": ("Claude", "#d97757", W, W),
-    "openai": ("Codex", "#412991", W, W),
+    "googlegemini": ("Gemini", "#8e75b2", W, W),
     "latex": ("LaTeX", "#008080", W, W),
     "git": ("Git", "#f05032", W, W),
     "vercel": ("Vercel", "#000000", W, W),
