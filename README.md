@@ -14,7 +14,6 @@ Integro o Grupo de Pesquisa em Economia Azul (FURG).
 - **Outros modelos:** fronteira estocástica (SFA), sobrevivência (Kaplan-Meier, Weibull), insumo-produto inter-regional, clusters e componentes principais
 - **Risco climático:** metodologia DaLA, CLIMADA, análise custo-benefício
 - **Dados e geoprocessamento:** ETL em Parquet, análise espacial, dashboards e WebGIS
-- **Pesquisa reprodutível:** código e dados abertos, documentação e instruções de citação
 
 ## Ferramentas
 
