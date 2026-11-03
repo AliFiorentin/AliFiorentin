@@ -3,24 +3,22 @@
 Doutorando em Economia Aplicada na UFRGS. Mestre em Economia Aplicada pela FURG e bacharel em Matemática Aplicada.
 Integro o Grupo de Pesquisa em Economia Azul (FURG). [ORCID](https://orcid.org/0009-0002-7233-3640)
 
-## Áreas de pesquisa
+## Habilidades
 
-- Impacto econômico de inundações e eventos climáticos extremos no Sul do Brasil
-- Risco climático no setor portuário
-- Avaliação de impacto causal em dados de emprego formal
-- Engenharia de dados públicos brasileiros (RAIS, CNPJ)
-
-## Projetos em destaque
-
-| Projeto | Descrição | Stack |
-|---|---|---|
-| [bid-dashboard-inundacoes-rs](https://github.com/AliFiorentin/bid-dashboard-inundacoes-rs) ([painel](https://bid-ais-rs.vercel.app)) | Painel interativo do impacto socioeconômico das enchentes de 2024 no RS, em parceria com o BID e o CIEX/FURG | TypeScript, Next.js, Python |
-| [ciex-dashboard-inundacoes-rio-grande](https://github.com/AliFiorentin/ciex-dashboard-inundacoes-rio-grande) ([painel](https://pve-rg.vercel.app)) | Painel de cenários de inundação em Rio Grande/RS | TypeScript, Next.js |
-| [RiskPorts](https://github.com/AliFiorentin/RiskPorts) | Dados e código de artigo submetido à *Marine Policy* sobre custos climáticos no porto de São Francisco do Sul | R, Stata |
-| [climada-brazil-adaptation](https://github.com/AliFiorentin/climada-brazil-adaptation) | Adaptação a inundações e análise custo-benefício em Porto Alegre (BID RiskHub / CLIMADA) | Jupyter Notebook |
-| [ford-brazil-ddd-employment](https://github.com/AliFiorentin/ford-brazil-ddd-employment) | Efeito causal do fechamento das fábricas da Ford no emprego formal do complexo automotivo | LaTeX |
-| [rais-etl-db](https://github.com/AliFiorentin/rais-etl-db) e [cnpj-etl-db](https://github.com/AliFiorentin/cnpj-etl-db) | ETL incremental da RAIS e do CNPJ para Parquet, com particionamento e compressão zstd | Python |
+- **Econometria e inferência causal:** Propensity Score Matching, diferenças em diferenças, modelos logit/probit e efeitos marginais, análise de sensibilidade (limites de Rosenbaum)
+- **Avaliação de risco e danos climáticos:** metodologia DaLA (Damage and Loss Assessment), modelagem de risco com CLIMADA, análise custo-benefício
+- **Análise geoespacial:** interseção espacial de manchas de inundação com dados georreferenciados, rasters e geocodificação
+- **Engenharia de dados:** pipelines ETL incrementais, formato Parquet, particionamento e compressão
+- **Visualização de dados:** dashboards interativos e mapas web
+- **Pesquisa reprodutível:** código e dados abertos, licenças, documentação e instruções de citação
 
 ## Ferramentas
 
-R · Python · Stata · TypeScript · Next.js · GeoPandas · LaTeX
+| Área | Ferramentas |
+|---|---|
+| Estatística e econometria | R (MatchIt, cobalt, ggplot2), Stata |
+| Dados e geoprocessamento | Python, pandas, GeoPandas, Shapely, rasterio, Parquet |
+| Risco climático | CLIMADA, Jupyter Notebook |
+| Web e mapas | TypeScript, Next.js, React, MapLibre GL, Tailwind CSS, Recharts |
+| Publicação | LaTeX, Git, Git LFS, Vercel |
+| Fontes de dados | RAIS, CNPJ, Censo Escolar (INEP), CNES/DataSUS, MapBiomas, WorldPop |
