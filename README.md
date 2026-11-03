@@ -5,29 +5,22 @@ Integro o Grupo de Pesquisa em Economia Azul (FURG). [ORCID](https://orcid.org/0
 
 ## Habilidades
 
-- **Inferência causal:** diferenças em diferenças (DiD, TWFE), diferenças em diferenças sintético (SDID), controle sintético, triplas diferenças (DDD) com efeitos fixos e estudo de evento, Propensity Score Matching, Entropy Balancing
-- **Dados em painel e modelos de escolha discreta:** efeitos fixos, logit/probit e efeitos marginais, logit condicional de Chamberlain, erros-padrão robustos (HC3) e de Driscoll-Kraay, mínimos quadrados ponderados
-- **Fronteira estocástica e eficiência:** Stochastic Frontier Analysis (SFA), função distância estocástica
-- **Análise de sobrevivência:** curvas de Kaplan-Meier, modelo Weibull com fragilidade Gamma
-- **Análise regional e multivariada:** matriz insumo-produto inter-regional, análise de clusters, componentes principais, índices compostos
-- **Avaliação de risco e danos climáticos:** metodologia DaLA (Damage and Loss Assessment), modelagem de risco com CLIMADA, análise custo-benefício
-- **Análise geoespacial:** interseção espacial de manchas de inundação com dados georreferenciados, rasters e geocodificação
-- **Engenharia de dados:** pipelines ETL incrementais, formato Parquet, particionamento e compressão
-- **Visualização de dados:** dashboards interativos (Power BI e web) e WebGIS
-- **Uso de IA no trabalho técnico:** Claude e Codex para programação, análise de dados e documentação
-- **Pesquisa reprodutível:** código e dados abertos, licenças, documentação e instruções de citação
+- **Inferência causal:** DiD/TWFE, SDID, controle sintético, DDD com estudo de evento, Propensity Score Matching, Entropy Balancing
+- **Painel e escolha discreta:** efeitos fixos, logit/probit, logit condicional de Chamberlain, erros-padrão HC3 e Driscoll-Kraay
+- **Outros modelos:** fronteira estocástica (SFA), sobrevivência (Kaplan-Meier, Weibull), insumo-produto inter-regional, clusters e componentes principais
+- **Risco climático:** metodologia DaLA, CLIMADA, análise custo-benefício
+- **Dados e geoprocessamento:** ETL em Parquet, análise espacial, dashboards e WebGIS
+- **Pesquisa reprodutível:** código e dados abertos, documentação e instruções de citação
 
 ## Ferramentas
 
 | Área | Ferramentas |
 |---|---|
-| Estatística e econometria | R (MatchIt, cobalt, ggplot2), Stata |
-| Dados e geoprocessamento | Python, SQL, pandas, GeoPandas, Shapely, rasterio, Parquet |
+| Estatística e econometria | R, Stata |
+| Dados e geoprocessamento | Python, SQL, pandas, GeoPandas |
 | SIG e mapas | QGIS, WebGIS, Google Earth, MapLibre GL |
-| Risco climático | CLIMADA, Jupyter Notebook |
-| Web | TypeScript, Next.js, React, Tailwind CSS, Recharts |
+| Web | TypeScript, Next.js, React |
 | Bancos de dados e nuvem | Supabase, Firebase, Google Cloud |
 | Análise e escritório | Power BI, Microsoft Office (Excel) |
 | Inteligência artificial | Claude, Codex |
-| Publicação | LaTeX, Git, Git LFS, Vercel |
-| Fontes de dados | RAIS, CNPJ, Censo Escolar (INEP), CNES/DataSUS, MapBiomas, WorldPop |
+| Publicação | LaTeX, Git, Vercel |
