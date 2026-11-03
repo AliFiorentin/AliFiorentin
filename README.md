@@ -20,16 +20,16 @@ Integro o Grupo de Pesquisa em Economia Azul (FURG).
 
 <table>
 <thead>
-<tr><th align="left"><img src="assets/spacer.svg" align="left" width="260" height="1" alt="">Área</th><th align="left"><img src="assets/spacer.svg" align="right" width="2000" height="1" alt="">Ferramentas</th></tr>
+<tr><th align="left">Área</th><th align="left">Ferramentas<br><img src="assets/spacer.svg" width="2000" height="1" alt=""></th></tr>
 </thead>
 <tbody>
-<tr><td>Estatística e econometria</td><td><img src="assets/badges/r.svg" alt="R"> <img src="assets/badges/stata.svg" alt="Stata"> <img src="assets/badges/matlab.svg" alt="MATLAB"></td></tr>
-<tr><td>Programação e dados</td><td><img src="assets/badges/python.svg" alt="Python"> <img src="assets/badges/sql.svg" alt="SQL"> <img src="assets/badges/pandas.svg" alt="pandas"> <img src="assets/badges/geopandas.svg" alt="GeoPandas"></td></tr>
-<tr><td>Geoprocessamento e mapas</td><td><img src="assets/badges/qgis.svg" alt="QGIS"> <img src="assets/badges/webgis.svg" alt="WebGIS"> <img src="assets/badges/googleearth.svg" alt="Google Earth"> <img src="assets/badges/maplibre.svg" alt="MapLibre GL"></td></tr>
-<tr><td>Visualização e documentos</td><td><img src="assets/badges/powerbi.svg" alt="Power BI"> <img src="assets/badges/microsoftexcel.svg" alt="Microsoft Excel"> <img src="assets/badges/latex.svg" alt="LaTeX"></td></tr>
-<tr><td>Desenvolvimento web</td><td><img src="assets/badges/typescript.svg" alt="TypeScript"> <img src="assets/badges/nextdotjs.svg" alt="Next.js"> <img src="assets/badges/react.svg" alt="React"> <img src="assets/badges/git.svg" alt="Git"> <img src="assets/badges/vercel.svg" alt="Vercel"></td></tr>
-<tr><td>Bancos de dados e nuvem</td><td><img src="assets/badges/supabase.svg" alt="Supabase"> <img src="assets/badges/firebase.svg" alt="Firebase"> <img src="assets/badges/googlecloud.svg" alt="Google Cloud"></td></tr>
-<tr><td>Inteligência artificial</td><td><img src="assets/badges/claude.svg" alt="Claude"> <img src="assets/badges/openai.svg" alt="Codex"></td></tr>
+<tr><td>Estatística&nbsp;e&nbsp;econometria</td><td><img src="assets/badges/r.svg" alt="R"> <img src="assets/badges/stata.svg" alt="Stata"> <img src="assets/badges/matlab.svg" alt="MATLAB"></td></tr>
+<tr><td>Programação&nbsp;e&nbsp;dados</td><td><img src="assets/badges/python.svg" alt="Python"> <img src="assets/badges/sql.svg" alt="SQL"> <img src="assets/badges/pandas.svg" alt="pandas"> <img src="assets/badges/geopandas.svg" alt="GeoPandas"></td></tr>
+<tr><td>Geoprocessamento&nbsp;e&nbsp;mapas</td><td><img src="assets/badges/qgis.svg" alt="QGIS"> <img src="assets/badges/webgis.svg" alt="WebGIS"> <img src="assets/badges/googleearth.svg" alt="Google Earth"> <img src="assets/badges/maplibre.svg" alt="MapLibre GL"></td></tr>
+<tr><td>Visualização&nbsp;e&nbsp;documentos</td><td><img src="assets/badges/powerbi.svg" alt="Power BI"> <img src="assets/badges/microsoftexcel.svg" alt="Microsoft Excel"> <img src="assets/badges/latex.svg" alt="LaTeX"></td></tr>
+<tr><td>Desenvolvimento&nbsp;web</td><td><img src="assets/badges/typescript.svg" alt="TypeScript"> <img src="assets/badges/nextdotjs.svg" alt="Next.js"> <img src="assets/badges/react.svg" alt="React"> <img src="assets/badges/git.svg" alt="Git"> <img src="assets/badges/vercel.svg" alt="Vercel"></td></tr>
+<tr><td>Bancos&nbsp;de&nbsp;dados&nbsp;e&nbsp;nuvem</td><td><img src="assets/badges/supabase.svg" alt="Supabase"> <img src="assets/badges/firebase.svg" alt="Firebase"> <img src="assets/badges/googlecloud.svg" alt="Google Cloud"></td></tr>
+<tr><td>Inteligência&nbsp;artificial</td><td><img src="assets/badges/claude.svg" alt="Claude"> <img src="assets/badges/openai.svg" alt="Codex"></td></tr>
 </tbody>
 </table>
 
