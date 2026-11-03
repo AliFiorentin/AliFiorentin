@@ -20,14 +20,14 @@ Integro o Grupo de Pesquisa em Economia Azul (FURG). [ORCID](https://orcid.org/0
 
 | Área | Ferramentas |
 |---|---|
-| Estatística e econometria | <img src="assets/logos/r.svg" height="16" alt=""> R &nbsp; Stata |
-| Dados e geoprocessamento | <img src="assets/logos/python.svg" height="16" alt=""> Python &nbsp; SQL &nbsp; <img src="assets/logos/pandas.svg" height="16" alt=""> pandas &nbsp; <img src="assets/logos/geopandas.svg" height="16" alt=""> GeoPandas |
-| SIG e mapas | <img src="assets/logos/qgis.svg" height="16" alt=""> QGIS &nbsp; WebGIS &nbsp; <img src="assets/logos/googleearth.svg" height="16" alt=""> Google Earth &nbsp; <img src="assets/logos/maplibre.svg" height="16" alt=""> MapLibre GL |
-| Web | <img src="assets/logos/typescript.svg" height="16" alt=""> TypeScript &nbsp; <img src="assets/logos/nextdotjs.svg" height="16" alt=""> Next.js &nbsp; <img src="assets/logos/react.svg" height="16" alt=""> React |
-| Bancos de dados e nuvem | <img src="assets/logos/supabase.svg" height="16" alt=""> Supabase &nbsp; <img src="assets/logos/firebase.svg" height="16" alt=""> Firebase &nbsp; <img src="assets/logos/googlecloud.svg" height="16" alt=""> Google Cloud |
-| Análise e escritório | <img src="assets/logos/powerbi.svg" height="16" alt=""> Power BI &nbsp; <img src="assets/logos/microsoftexcel.svg" height="16" alt=""> Microsoft Office (Excel) |
-| Inteligência artificial | <img src="assets/logos/claude.svg" height="16" alt=""> Claude &nbsp; <img src="assets/logos/openai.svg" height="16" alt=""> Codex |
-| Publicação | <img src="assets/logos/latex.svg" height="16" alt=""> LaTeX &nbsp; <img src="assets/logos/git.svg" height="16" alt=""> Git &nbsp; <img src="assets/logos/vercel.svg" height="16" alt=""> Vercel |
+| Estatística e econometria | <img src="assets/badges/r.svg" alt="R"> <img src="assets/badges/stata.svg" alt="Stata"> |
+| Dados e geoprocessamento | <img src="assets/badges/python.svg" alt="Python"> <img src="assets/badges/sql.svg" alt="SQL"> <img src="assets/badges/pandas.svg" alt="pandas"> <img src="assets/badges/geopandas.svg" alt="GeoPandas"> |
+| SIG e mapas | <img src="assets/badges/qgis.svg" alt="QGIS"> <img src="assets/badges/webgis.svg" alt="WebGIS"> <img src="assets/badges/googleearth.svg" alt="Google Earth"> <img src="assets/badges/maplibre.svg" alt="MapLibre GL"> |
+| Web | <img src="assets/badges/typescript.svg" alt="TypeScript"> <img src="assets/badges/nextdotjs.svg" alt="Next.js"> <img src="assets/badges/react.svg" alt="React"> |
+| Bancos de dados e nuvem | <img src="assets/badges/supabase.svg" alt="Supabase"> <img src="assets/badges/firebase.svg" alt="Firebase"> <img src="assets/badges/googlecloud.svg" alt="Google Cloud"> |
+| Análise e escritório | <img src="assets/badges/powerbi.svg" alt="Power BI"> <img src="assets/badges/microsoftexcel.svg" alt="Microsoft Excel"> |
+| Inteligência artificial | <img src="assets/badges/claude.svg" alt="Claude"> <img src="assets/badges/openai.svg" alt="Codex"> |
+| Publicação | <img src="assets/badges/latex.svg" alt="LaTeX"> <img src="assets/badges/git.svg" alt="Git"> <img src="assets/badges/vercel.svg" alt="Vercel"> |
 
 </td>
 <td valign="top">
