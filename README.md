@@ -34,11 +34,10 @@ Integro o Grupo de Pesquisa em Economia Azul (FURG). [ORCID](https://orcid.org/0
 
 **Linhas de pesquisa**
 
-- Clima e eficiência do setor portuário
-- Enchentes de 2024 no RS: emprego, crédito e economia
-- Mercado de trabalho e overeducation
-- Receitas de petróleo e crescimento municipal
-- Transporte aquaviário regulado pela ANTAQ
+- Economia do clima e desastres
+- Economia portuária e transportes
+- Economia do trabalho
+- Economia regional
 
 **Artigos completos**
 [econodados.vercel.app](https://econodados.vercel.app)
