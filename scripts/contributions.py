@@ -1,4 +1,4 @@
-"""Gera assets/contributions.svg com as contribuições públicas por mês (últimos 12 meses)."""
+"""Gera assets/contributions.svg com as contribuições por mês (últimos 12 meses)."""
 import datetime
 import json
 import os
@@ -61,7 +61,7 @@ for i, (k, v) in enumerate(zip(chaves, valores)):
         f'<text x="{x + (slot - 8) / 2:.1f}" y="{BASE + 16}" class="l" text-anchor="middle">{MESES[int(k[5:]) - 1]}</text>'
     )
 
-svg = f"""<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}" role="img" aria-label="Contribuições públicas por mês">
+svg = f"""<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}" role="img" aria-label="Contribuições por mês">
 <style>
 .h{{font:600 16px -apple-system,Segoe UI,Helvetica,Arial,sans-serif;fill:#1f2328}}
 .s{{font:13px -apple-system,Segoe UI,Helvetica,Arial,sans-serif;fill:#59636e}}
@@ -71,7 +71,7 @@ svg = f"""<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewB
 @media (prefers-color-scheme: dark){{.h,.n{{fill:#e6edf3}}.s,.l{{fill:#9198a1}}.b{{fill:#3fb950}}}}
 </style>
 <text x="0" y="20" class="h">Contribuições por mês</text>
-<text x="0" y="40" class="s">{total} contribuições públicas nos últimos 12 meses</text>
+<text x="0" y="40" class="s">{total} contribuições nos últimos 12 meses</text>
 {''.join(barras)}
 </svg>
 """
