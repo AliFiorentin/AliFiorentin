@@ -9,7 +9,8 @@ Integro o Grupo de Pesquisa em Economia Azul (FURG). [ORCID](https://orcid.org/0
 - **Avaliação de risco e danos climáticos:** metodologia DaLA (Damage and Loss Assessment), modelagem de risco com CLIMADA, análise custo-benefício
 - **Análise geoespacial:** interseção espacial de manchas de inundação com dados georreferenciados, rasters e geocodificação
 - **Engenharia de dados:** pipelines ETL incrementais, formato Parquet, particionamento e compressão
-- **Visualização de dados:** dashboards interativos e mapas web
+- **Visualização de dados:** dashboards interativos (Power BI e web) e WebGIS
+- **Uso de IA no trabalho técnico:** Claude e Codex para programação, análise de dados e documentação
 - **Pesquisa reprodutível:** código e dados abertos, licenças, documentação e instruções de citação
 
 ## Ferramentas
@@ -17,8 +18,12 @@ Integro o Grupo de Pesquisa em Economia Azul (FURG). [ORCID](https://orcid.org/0
 | Área | Ferramentas |
 |---|---|
 | Estatística e econometria | R (MatchIt, cobalt, ggplot2), Stata |
-| Dados e geoprocessamento | Python, pandas, GeoPandas, Shapely, rasterio, Parquet |
+| Dados e geoprocessamento | Python, SQL, pandas, GeoPandas, Shapely, rasterio, Parquet |
+| SIG e mapas | QGIS, WebGIS, Google Earth, MapLibre GL |
 | Risco climático | CLIMADA, Jupyter Notebook |
-| Web e mapas | TypeScript, Next.js, React, MapLibre GL, Tailwind CSS, Recharts |
+| Web | TypeScript, Next.js, React, Tailwind CSS, Recharts |
+| Bancos de dados e nuvem | Supabase, Firebase, Google Cloud |
+| Análise e escritório | Power BI, Microsoft Office (Excel) |
+| Inteligência artificial | Claude, Codex |
 | Publicação | LaTeX, Git, Git LFS, Vercel |
 | Fontes de dados | RAIS, CNPJ, Censo Escolar (INEP), CNES/DataSUS, MapBiomas, WorldPop |
