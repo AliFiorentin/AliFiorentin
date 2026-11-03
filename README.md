@@ -5,7 +5,7 @@ Integro o Grupo de Pesquisa em Economia Azul (FURG). [ORCID](https://orcid.org/0
 
 ## Habilidades
 
-- **Inferência causal:** diferenças em diferenças (DiD, TWFE), diferenças em diferenças sintético (SDID), controle sintético, triplas diferenças (DDD) com efeitos fixos e estudo de evento, Propensity Score Matching, Entropy Balancing, análise de sensibilidade (limites de Rosenbaum)
+- **Inferência causal:** diferenças em diferenças (DiD, TWFE), diferenças em diferenças sintético (SDID), controle sintético, triplas diferenças (DDD) com efeitos fixos e estudo de evento, Propensity Score Matching, Entropy Balancing
 - **Dados em painel e modelos de escolha discreta:** efeitos fixos, logit/probit e efeitos marginais, logit condicional de Chamberlain, erros-padrão robustos (HC3) e de Driscoll-Kraay, mínimos quadrados ponderados
 - **Fronteira estocástica e eficiência:** Stochastic Frontier Analysis (SFA), função distância estocástica
 - **Análise de sobrevivência:** curvas de Kaplan-Meier, modelo Weibull com fragilidade Gamma
