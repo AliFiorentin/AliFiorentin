@@ -20,13 +20,12 @@ Integro o Grupo de Pesquisa em Economia Azul (FURG).
 | Área | Ferramentas |
 |---|---|
 | Estatística e econometria | <img src="assets/badges/r.svg" alt="R"> <img src="assets/badges/stata.svg" alt="Stata"> |
-| Dados e geoprocessamento | <img src="assets/badges/python.svg" alt="Python"> <img src="assets/badges/sql.svg" alt="SQL"> <img src="assets/badges/pandas.svg" alt="pandas"> <img src="assets/badges/geopandas.svg" alt="GeoPandas"> |
-| SIG e mapas | <img src="assets/badges/qgis.svg" alt="QGIS"> <img src="assets/badges/webgis.svg" alt="WebGIS"> <img src="assets/badges/googleearth.svg" alt="Google Earth"> <img src="assets/badges/maplibre.svg" alt="MapLibre GL"> |
-| Web | <img src="assets/badges/typescript.svg" alt="TypeScript"> <img src="assets/badges/nextdotjs.svg" alt="Next.js"> <img src="assets/badges/react.svg" alt="React"> |
+| Programação e dados | <img src="assets/badges/python.svg" alt="Python"> <img src="assets/badges/sql.svg" alt="SQL"> <img src="assets/badges/pandas.svg" alt="pandas"> <img src="assets/badges/geopandas.svg" alt="GeoPandas"> |
+| Geoprocessamento e mapas | <img src="assets/badges/qgis.svg" alt="QGIS"> <img src="assets/badges/webgis.svg" alt="WebGIS"> <img src="assets/badges/googleearth.svg" alt="Google Earth"> <img src="assets/badges/maplibre.svg" alt="MapLibre GL"> |
+| Visualização e documentos | <img src="assets/badges/powerbi.svg" alt="Power BI"> <img src="assets/badges/microsoftexcel.svg" alt="Microsoft Excel"> <img src="assets/badges/latex.svg" alt="LaTeX"> |
+| Desenvolvimento web | <img src="assets/badges/typescript.svg" alt="TypeScript"> <img src="assets/badges/nextdotjs.svg" alt="Next.js"> <img src="assets/badges/react.svg" alt="React"> <img src="assets/badges/git.svg" alt="Git"> <img src="assets/badges/vercel.svg" alt="Vercel"> |
 | Bancos de dados e nuvem | <img src="assets/badges/supabase.svg" alt="Supabase"> <img src="assets/badges/firebase.svg" alt="Firebase"> <img src="assets/badges/googlecloud.svg" alt="Google Cloud"> |
-| Análise e escritório | <img src="assets/badges/powerbi.svg" alt="Power BI"> <img src="assets/badges/microsoftexcel.svg" alt="Microsoft Excel"> |
 | Inteligência artificial | <img src="assets/badges/claude.svg" alt="Claude"> <img src="assets/badges/openai.svg" alt="Codex"> |
-| Publicação | <img src="assets/badges/latex.svg" alt="LaTeX"> <img src="assets/badges/git.svg" alt="Git"> <img src="assets/badges/vercel.svg" alt="Vercel"> |
 
 ## Atividade
 
