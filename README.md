@@ -5,6 +5,7 @@ Integro o Grupo de Pesquisa em Economia Azul (FURG).
 
 <a href="https://orcid.org/0009-0002-7233-3640"><img src="assets/badges/orcid.svg" alt="ORCID"></a>
 <a href="https://econodados.vercel.app"><img src="assets/badges/site.svg" alt="Site e artigos"></a>
+<a href="https://br.linkedin.com/in/alissonfiorentin"><img src="assets/badges/linkedin.svg" alt="LinkedIn"></a>
 
 ## Habilidades
 
